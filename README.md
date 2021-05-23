@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Blockchain.
+- 🌱 I’m currently learning Cloud platform.
+- 👯 I’m looking to collaborate on blockchain.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
 <!-- <img align="right" width="120" src="./assets/icon.png"> -->
 
-<h1>Hi, I'm Suryansh <img width="30px" src="./assets/hand.gif"></h1>
+<h1>Hi, I'm Suryansh <img width="30px" src="./assets/hand.gif"></h1><br>
 
 <a href="https://www.linkedin.com/in/suryansh-tripathi/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
 <a href="https://github.com/Suryansh1004"> <img align="left" alt="Robin B Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
@@ -30,6 +30,7 @@ I'm a third-year student at PSIT, Kanpur pursuing B.Tech in Computer Science and
  <br/>
  
 ## Skills and Tools
+
 
 <ul>
 <li>Languages</li>
@@ -84,4 +85,6 @@ I'm a third-year student at PSIT, Kanpur pursuing B.Tech in Computer Science and
 </a>
 
 </br>
- 
+
+ ![](https://komarev.com/ghpvc/?username=Suryansh1004&color=blue)
+
