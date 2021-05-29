@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Suryansh <img width="30px" src="./assets/hand.gif"></h1><br>
 
+ ![](https://komarev.com/ghpvc/?username=Suryansh1004&color=blue)
+<br>
+
 <a href="https://www.linkedin.com/in/suryansh-tripathi/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
 <a href="https://github.com/Suryansh1004"> <img align="left" alt="Robin B Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 <a href="https://www.instagram.com/suryansh___tripathi/"> <img align="left" alt="Robin B Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
@@ -85,6 +88,4 @@ I'm a third-year student at PSIT, Kanpur pursuing B.Tech in Computer Science and
 </a>
 
 </br>
-
- ![](https://komarev.com/ghpvc/?username=Suryansh1004&color=blue)
 
